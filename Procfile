@@ -1,0 +1,2 @@
+
+worker: node king.js
